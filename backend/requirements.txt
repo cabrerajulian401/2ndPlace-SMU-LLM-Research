@@ -2,7 +2,6 @@ flask
 flask_cors
 dotenv
 requests
-os
 google.generativeai
 openai
 numpy
