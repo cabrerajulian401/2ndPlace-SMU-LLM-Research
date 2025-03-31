@@ -9,7 +9,7 @@ function App() {
   const [responses, setResponses] = useState({});
 
   useEffect(() => {
-    axios.get("http://localhost:5000/api/questions")
+    axios.get("https://llm-web-app.onrender.com/api/questions")
       .then((res) => {
         setQuestions(res.data);
         setSelectedQuestion(res.data[0] || "");
@@ -26,7 +26,7 @@ function App() {
   };
 
   const handleCompare = () => {
-    axios.post("http://localhost:5000/api/compare", {
+    axios.post("https://llm-web-app.onrender.com/api/compare", {
       question: selectedQuestion,
       models: selectedModels,
     })
