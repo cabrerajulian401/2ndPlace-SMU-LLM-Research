@@ -5,9 +5,4 @@ questions = [
     "What is the difference between correlation and causation?",
     "How do you calculate the correlation coefficient?",
     "What is a Z-score, and how is it calculated?"
-
-
-
-
-
- ] 
+]
