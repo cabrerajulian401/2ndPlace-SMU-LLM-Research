@@ -5,3 +5,4 @@ requests
 os
 google.generativeai
 openai
+numpy
