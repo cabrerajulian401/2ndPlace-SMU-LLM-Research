@@ -7,7 +7,7 @@ On April 1st, Julian won **2nd Place overall out of 40+ presenters** at the Annu
 <img width="610" alt="image" src="https://github.com/user-attachments/assets/bc87b752-0fb8-4abf-8bc4-f76840e12d01" />
 
 
-## Julian presented his & Dr.McGee's AI LLM Research & his created Poster: “From Prompts to Patterns: Exploring AI Responses with Text Analytics.” Faculty mentor: Monnie McGee, Statistics and Data Science”. 
+## Julian presented his & Dr.McGee's AI LLM Research & his created Poster: “From Prompts to Patterns: Exploring AI Responses with Text Analytics.” Faculty mentor: Monnie McGee, Statistics and Data Science”
 
 
 Julian has worked throughout the year on this Research Project as an **Paid AI & Data Science Research Assistant** which will soon be **published in a journal**, and **Julian will be co-authored**. His research with Dr. McGee, “From Prompts to Patterns: Exploring AI Responses with Text Analytics” aims to uncover socioeconomic inequality in AI Access for Student Learning by comparing several free and paid LLMs/AI’s (OpenAI, Grok, Claude & Gemini) response accuracy and conciseness when being asked to compute Statistics/Math Exam questions. (Refer to Poster at bottom for more details).
