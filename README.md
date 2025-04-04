@@ -177,4 +177,9 @@ The frontend will be served at `http://localhost:3000`.
 3. Add your API keys as environment variables in Railway.
 4. Railway will deploy your Flask app and provide a public URL — copy that and update the React `axios` calls to use this endpoint.
 
+# Poster 
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/2780ce5c-7923-4e1b-82ce-0e019a12a51a" />
+
+
 
