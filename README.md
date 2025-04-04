@@ -4,7 +4,7 @@
 
 On April 1st, Julian won **2nd Place overall out of 40+ presenters** at the Annual SMU Research & Innovation Week Undergraduate Poster Session, winning a $200 Dollar Cash Prize. He was the **youngest on Podium, being a freshman** and was one of the only 3 freshmen to compete. Students presented their Mentor-Led research at the convention, with 20 judges rating every contestant’s poster. 
 
-<img width="580" alt="image" src="https://github.com/user-attachments/assets/bc87b752-0fb8-4abf-8bc4-f76840e12d01" />
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/bc87b752-0fb8-4abf-8bc4-f76840e12d01" />
 
 
 ## Julian presented his & Dr.McGee's AI LLM Research & his created Poster: “From Prompts to Patterns: Exploring AI Responses with Text Analytics.” Faculty mentor: Monnie McGee, Statistics and Data Science”. 
