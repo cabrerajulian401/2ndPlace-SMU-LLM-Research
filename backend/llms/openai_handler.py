@@ -14,12 +14,7 @@ if not api_key:
 client = OpenAI(api_key=api_key)
 
 def ask(prompt: str) -> str:
-    """
-    Sends a prompt to the OpenAI model and returns the response.
 
-    :param prompt: The input prompt to send to the model.
-    :return: The model's response as a string.
-    """
     try:
         # Prepare the messages for the conversation
         messages = [
