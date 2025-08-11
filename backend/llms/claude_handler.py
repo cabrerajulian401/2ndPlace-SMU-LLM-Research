@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-# Either hardcode for testing or load from environment
+# load from environment
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "sk-ant-your-real-api-key")
 
 def ask(question: str) -> str:
